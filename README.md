@@ -1,5 +1,5 @@
 # Abschalt-Timer
-Ein Timer basierend um den Windows-PC nach einer angegebenen anzahl von Minuten abzuschalten!
+Ein Timer um den Windows-PC nach einer angegebenen anzahl von Minuten abzuschalten!
 
 Die Windows-Eingabeauforderung (CMD) dient als GUI.
 
