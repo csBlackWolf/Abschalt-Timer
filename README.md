@@ -14,4 +14,4 @@ Windows 10
 ### Version 1.1.0-0006
 
 - Design-Update
-- Programm schließt sich nun erst nach expliziter aufforderung
+- Programm schließt sich nun nicht mehr automatisch
