@@ -11,6 +11,10 @@ Windows 10
 
 ## Changelog:
 
+### Version 1.2.0-0007
+- Programmcode etwas überarbeitet und aufgeräumt
+- Neues Start-Design
+
 ### Version 1.1.0-0006
 
 - Design-Update
